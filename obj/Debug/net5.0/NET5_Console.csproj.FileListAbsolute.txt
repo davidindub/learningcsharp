@@ -1,0 +1,16 @@
+/home/runner/NET-5-Console/bin/Debug/net5.0/NET5_Console
+/home/runner/NET-5-Console/bin/Debug/net5.0/NET5_Console.deps.json
+/home/runner/NET-5-Console/bin/Debug/net5.0/NET5_Console.runtimeconfig.json
+/home/runner/NET-5-Console/bin/Debug/net5.0/NET5_Console.runtimeconfig.dev.json
+/home/runner/NET-5-Console/bin/Debug/net5.0/NET5_Console.dll
+/home/runner/NET-5-Console/bin/Debug/net5.0/ref/NET5_Console.dll
+/home/runner/NET-5-Console/bin/Debug/net5.0/NET5_Console.pdb
+/home/runner/NET-5-Console/obj/Debug/net5.0/NET5_Console.csproj.AssemblyReference.cache
+/home/runner/NET-5-Console/obj/Debug/net5.0/NET5_Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/NET-5-Console/obj/Debug/net5.0/NET5_Console.AssemblyInfoInputs.cache
+/home/runner/NET-5-Console/obj/Debug/net5.0/NET5_Console.AssemblyInfo.cs
+/home/runner/NET-5-Console/obj/Debug/net5.0/NET5_Console.csproj.CoreCompileInputs.cache
+/home/runner/NET-5-Console/obj/Debug/net5.0/NET5_Console.dll
+/home/runner/NET-5-Console/obj/Debug/net5.0/ref/NET5_Console.dll
+/home/runner/NET-5-Console/obj/Debug/net5.0/NET5_Console.pdb
+/home/runner/NET-5-Console/obj/Debug/net5.0/NET5_Console.genruntimeconfig.cache
