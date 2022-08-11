@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/NET-5-Console/NET5_Console.csproj": {}
+    "/home/runner/Learning-C/NET5_Console.csproj": {}
   },
   "projects": {
-    "/home/runner/NET-5-Console/NET5_Console.csproj": {
+    "/home/runner/Learning-C/NET5_Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/NET-5-Console/NET5_Console.csproj",
+        "projectUniqueName": "/home/runner/Learning-C/NET5_Console.csproj",
         "projectName": "NET5_Console",
-        "projectPath": "/home/runner/NET-5-Console/NET5_Console.csproj",
+        "projectPath": "/home/runner/Learning-C/NET5_Console.csproj",
         "packagesPath": "/home/runner/.nuget/packages/",
-        "outputPath": "/home/runner/NET-5-Console/obj/",
+        "outputPath": "/home/runner/Learning-C/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/runner/.nuget/NuGet/NuGet.Config"

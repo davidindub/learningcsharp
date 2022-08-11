@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = NET5_Console
-build_property.ProjectDir = /home/runner/NET-5-Console/
+build_property.ProjectDir = /home/runner/Learning-C/

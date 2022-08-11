@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yUtHoCKvCugSIpdtWUI7+XiLcd1PGj5ME50xyPNSYjGawg2d24NFeUFh61Z2xulHq6Zb4QT3XnCCEMEkTigHsQ==",
+  "dgSpecHash": "fwqp6FVjINmYA6WJzvtOX9cpsO/QRXYpTK/FkdA80Hb6zr21q8mCFQSwyhL9vEldgiHi938uMqLU7jeoQLKYug==",
   "success": true,
-  "projectFilePath": "/home/runner/NET-5-Console/NET5_Console.csproj",
+  "projectFilePath": "/home/runner/Learning-C/NET5_Console.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
