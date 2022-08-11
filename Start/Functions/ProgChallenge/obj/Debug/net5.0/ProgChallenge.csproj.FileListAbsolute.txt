@@ -1,0 +1,16 @@
+/home/runner/Learning-C/Start/Functions/ProgChallenge/obj/Debug/net5.0/ProgChallenge.csproj.AssemblyReference.cache
+/home/runner/Learning-C/Start/Functions/ProgChallenge/obj/Debug/net5.0/ProgChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Learning-C/Start/Functions/ProgChallenge/obj/Debug/net5.0/ProgChallenge.AssemblyInfoInputs.cache
+/home/runner/Learning-C/Start/Functions/ProgChallenge/obj/Debug/net5.0/ProgChallenge.AssemblyInfo.cs
+/home/runner/Learning-C/Start/Functions/ProgChallenge/obj/Debug/net5.0/ProgChallenge.csproj.CoreCompileInputs.cache
+/home/runner/Learning-C/Start/Functions/ProgChallenge/bin/Debug/net5.0/ProgChallenge
+/home/runner/Learning-C/Start/Functions/ProgChallenge/bin/Debug/net5.0/ProgChallenge.deps.json
+/home/runner/Learning-C/Start/Functions/ProgChallenge/bin/Debug/net5.0/ProgChallenge.runtimeconfig.json
+/home/runner/Learning-C/Start/Functions/ProgChallenge/bin/Debug/net5.0/ProgChallenge.runtimeconfig.dev.json
+/home/runner/Learning-C/Start/Functions/ProgChallenge/bin/Debug/net5.0/ProgChallenge.dll
+/home/runner/Learning-C/Start/Functions/ProgChallenge/bin/Debug/net5.0/ref/ProgChallenge.dll
+/home/runner/Learning-C/Start/Functions/ProgChallenge/bin/Debug/net5.0/ProgChallenge.pdb
+/home/runner/Learning-C/Start/Functions/ProgChallenge/obj/Debug/net5.0/ProgChallenge.dll
+/home/runner/Learning-C/Start/Functions/ProgChallenge/obj/Debug/net5.0/ref/ProgChallenge.dll
+/home/runner/Learning-C/Start/Functions/ProgChallenge/obj/Debug/net5.0/ProgChallenge.pdb
+/home/runner/Learning-C/Start/Functions/ProgChallenge/obj/Debug/net5.0/ProgChallenge.genruntimeconfig.cache

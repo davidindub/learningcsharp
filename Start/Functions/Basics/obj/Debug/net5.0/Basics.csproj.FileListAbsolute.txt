@@ -1,0 +1,16 @@
+/home/runner/Learning-C/Start/Functions/Basics/obj/Debug/net5.0/Basics.csproj.AssemblyReference.cache
+/home/runner/Learning-C/Start/Functions/Basics/obj/Debug/net5.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Learning-C/Start/Functions/Basics/obj/Debug/net5.0/Basics.AssemblyInfoInputs.cache
+/home/runner/Learning-C/Start/Functions/Basics/obj/Debug/net5.0/Basics.AssemblyInfo.cs
+/home/runner/Learning-C/Start/Functions/Basics/obj/Debug/net5.0/Basics.csproj.CoreCompileInputs.cache
+/home/runner/Learning-C/Start/Functions/Basics/bin/Debug/net5.0/Basics
+/home/runner/Learning-C/Start/Functions/Basics/bin/Debug/net5.0/Basics.deps.json
+/home/runner/Learning-C/Start/Functions/Basics/bin/Debug/net5.0/Basics.runtimeconfig.json
+/home/runner/Learning-C/Start/Functions/Basics/bin/Debug/net5.0/Basics.runtimeconfig.dev.json
+/home/runner/Learning-C/Start/Functions/Basics/bin/Debug/net5.0/Basics.dll
+/home/runner/Learning-C/Start/Functions/Basics/bin/Debug/net5.0/ref/Basics.dll
+/home/runner/Learning-C/Start/Functions/Basics/bin/Debug/net5.0/Basics.pdb
+/home/runner/Learning-C/Start/Functions/Basics/obj/Debug/net5.0/Basics.dll
+/home/runner/Learning-C/Start/Functions/Basics/obj/Debug/net5.0/ref/Basics.dll
+/home/runner/Learning-C/Start/Functions/Basics/obj/Debug/net5.0/Basics.pdb
+/home/runner/Learning-C/Start/Functions/Basics/obj/Debug/net5.0/Basics.genruntimeconfig.cache

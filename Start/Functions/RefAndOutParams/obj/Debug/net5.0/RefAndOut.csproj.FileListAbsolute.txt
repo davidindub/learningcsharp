@@ -1,0 +1,16 @@
+/home/runner/Learning-C/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut
+/home/runner/Learning-C/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.deps.json
+/home/runner/Learning-C/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.runtimeconfig.json
+/home/runner/Learning-C/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.runtimeconfig.dev.json
+/home/runner/Learning-C/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.dll
+/home/runner/Learning-C/Start/Functions/RefAndOutParams/bin/Debug/net5.0/ref/RefAndOut.dll
+/home/runner/Learning-C/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.pdb
+/home/runner/Learning-C/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.csproj.AssemblyReference.cache
+/home/runner/Learning-C/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Learning-C/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.AssemblyInfoInputs.cache
+/home/runner/Learning-C/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.AssemblyInfo.cs
+/home/runner/Learning-C/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.csproj.CoreCompileInputs.cache
+/home/runner/Learning-C/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.dll
+/home/runner/Learning-C/Start/Functions/RefAndOutParams/obj/Debug/net5.0/ref/RefAndOut.dll
+/home/runner/Learning-C/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.pdb
+/home/runner/Learning-C/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.genruntimeconfig.cache

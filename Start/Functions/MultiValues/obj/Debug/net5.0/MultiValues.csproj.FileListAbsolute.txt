@@ -1,0 +1,16 @@
+/home/runner/Learning-C/Start/Functions/MultiValues/bin/Debug/net5.0/MultiValues
+/home/runner/Learning-C/Start/Functions/MultiValues/bin/Debug/net5.0/MultiValues.deps.json
+/home/runner/Learning-C/Start/Functions/MultiValues/bin/Debug/net5.0/MultiValues.runtimeconfig.json
+/home/runner/Learning-C/Start/Functions/MultiValues/bin/Debug/net5.0/MultiValues.runtimeconfig.dev.json
+/home/runner/Learning-C/Start/Functions/MultiValues/bin/Debug/net5.0/MultiValues.dll
+/home/runner/Learning-C/Start/Functions/MultiValues/bin/Debug/net5.0/ref/MultiValues.dll
+/home/runner/Learning-C/Start/Functions/MultiValues/bin/Debug/net5.0/MultiValues.pdb
+/home/runner/Learning-C/Start/Functions/MultiValues/obj/Debug/net5.0/MultiValues.csproj.AssemblyReference.cache
+/home/runner/Learning-C/Start/Functions/MultiValues/obj/Debug/net5.0/MultiValues.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Learning-C/Start/Functions/MultiValues/obj/Debug/net5.0/MultiValues.AssemblyInfoInputs.cache
+/home/runner/Learning-C/Start/Functions/MultiValues/obj/Debug/net5.0/MultiValues.AssemblyInfo.cs
+/home/runner/Learning-C/Start/Functions/MultiValues/obj/Debug/net5.0/MultiValues.csproj.CoreCompileInputs.cache
+/home/runner/Learning-C/Start/Functions/MultiValues/obj/Debug/net5.0/MultiValues.dll
+/home/runner/Learning-C/Start/Functions/MultiValues/obj/Debug/net5.0/ref/MultiValues.dll
+/home/runner/Learning-C/Start/Functions/MultiValues/obj/Debug/net5.0/MultiValues.pdb
+/home/runner/Learning-C/Start/Functions/MultiValues/obj/Debug/net5.0/MultiValues.genruntimeconfig.cache
