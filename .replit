@@ -1,4 +1,4 @@
-run = "dotnet watch run"
+run = "dotnet watch run --project Finished/Strings/ProgChallengeStart"
 
 [env]
 DOTNET_NOLOGO = "1"

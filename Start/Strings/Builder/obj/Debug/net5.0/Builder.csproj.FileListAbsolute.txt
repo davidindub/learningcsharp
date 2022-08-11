@@ -1,0 +1,16 @@
+/home/runner/Learning-C/Start/Strings/Builder/obj/Debug/net5.0/Builder.csproj.AssemblyReference.cache
+/home/runner/Learning-C/Start/Strings/Builder/obj/Debug/net5.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Learning-C/Start/Strings/Builder/obj/Debug/net5.0/Builder.AssemblyInfoInputs.cache
+/home/runner/Learning-C/Start/Strings/Builder/obj/Debug/net5.0/Builder.AssemblyInfo.cs
+/home/runner/Learning-C/Start/Strings/Builder/obj/Debug/net5.0/Builder.csproj.CoreCompileInputs.cache
+/home/runner/Learning-C/Start/Strings/Builder/bin/Debug/net5.0/Builder
+/home/runner/Learning-C/Start/Strings/Builder/bin/Debug/net5.0/Builder.deps.json
+/home/runner/Learning-C/Start/Strings/Builder/bin/Debug/net5.0/Builder.runtimeconfig.json
+/home/runner/Learning-C/Start/Strings/Builder/bin/Debug/net5.0/Builder.runtimeconfig.dev.json
+/home/runner/Learning-C/Start/Strings/Builder/bin/Debug/net5.0/Builder.dll
+/home/runner/Learning-C/Start/Strings/Builder/bin/Debug/net5.0/ref/Builder.dll
+/home/runner/Learning-C/Start/Strings/Builder/bin/Debug/net5.0/Builder.pdb
+/home/runner/Learning-C/Start/Strings/Builder/obj/Debug/net5.0/Builder.dll
+/home/runner/Learning-C/Start/Strings/Builder/obj/Debug/net5.0/ref/Builder.dll
+/home/runner/Learning-C/Start/Strings/Builder/obj/Debug/net5.0/Builder.pdb
+/home/runner/Learning-C/Start/Strings/Builder/obj/Debug/net5.0/Builder.genruntimeconfig.cache

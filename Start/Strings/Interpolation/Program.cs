@@ -14,6 +14,7 @@ namespace StringInterpolation
             decimal price = 60_275.0m;
 
             // TODO: Output information using formatting
+          Console.WriteLine($"This car is a {year} {make} {model}, with {miles * 1.6:F2} km and costs {price:C2}.");
 
 
             // TODO: Using string interpolation

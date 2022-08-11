@@ -1,0 +1,16 @@
+/home/runner/Learning-C/Start/Strings/Parsing/bin/Debug/net5.0/Parsing
+/home/runner/Learning-C/Start/Strings/Parsing/bin/Debug/net5.0/Parsing.deps.json
+/home/runner/Learning-C/Start/Strings/Parsing/bin/Debug/net5.0/Parsing.runtimeconfig.json
+/home/runner/Learning-C/Start/Strings/Parsing/bin/Debug/net5.0/Parsing.runtimeconfig.dev.json
+/home/runner/Learning-C/Start/Strings/Parsing/bin/Debug/net5.0/Parsing.dll
+/home/runner/Learning-C/Start/Strings/Parsing/bin/Debug/net5.0/ref/Parsing.dll
+/home/runner/Learning-C/Start/Strings/Parsing/bin/Debug/net5.0/Parsing.pdb
+/home/runner/Learning-C/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.csproj.AssemblyReference.cache
+/home/runner/Learning-C/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Learning-C/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.AssemblyInfoInputs.cache
+/home/runner/Learning-C/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.AssemblyInfo.cs
+/home/runner/Learning-C/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.csproj.CoreCompileInputs.cache
+/home/runner/Learning-C/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.dll
+/home/runner/Learning-C/Start/Strings/Parsing/obj/Debug/net5.0/ref/Parsing.dll
+/home/runner/Learning-C/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.pdb
+/home/runner/Learning-C/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/runner/Learning-C/Finished/Strings/Formatting/bin/Debug/net5.0/Formatting
+/home/runner/Learning-C/Finished/Strings/Formatting/bin/Debug/net5.0/Formatting.deps.json
+/home/runner/Learning-C/Finished/Strings/Formatting/bin/Debug/net5.0/Formatting.runtimeconfig.json
+/home/runner/Learning-C/Finished/Strings/Formatting/bin/Debug/net5.0/Formatting.runtimeconfig.dev.json
+/home/runner/Learning-C/Finished/Strings/Formatting/bin/Debug/net5.0/Formatting.dll
+/home/runner/Learning-C/Finished/Strings/Formatting/bin/Debug/net5.0/ref/Formatting.dll
+/home/runner/Learning-C/Finished/Strings/Formatting/bin/Debug/net5.0/Formatting.pdb
+/home/runner/Learning-C/Finished/Strings/Formatting/obj/Debug/net5.0/Formatting.csproj.AssemblyReference.cache
+/home/runner/Learning-C/Finished/Strings/Formatting/obj/Debug/net5.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Learning-C/Finished/Strings/Formatting/obj/Debug/net5.0/Formatting.AssemblyInfoInputs.cache
+/home/runner/Learning-C/Finished/Strings/Formatting/obj/Debug/net5.0/Formatting.AssemblyInfo.cs
+/home/runner/Learning-C/Finished/Strings/Formatting/obj/Debug/net5.0/Formatting.csproj.CoreCompileInputs.cache
+/home/runner/Learning-C/Finished/Strings/Formatting/obj/Debug/net5.0/Formatting.dll
+/home/runner/Learning-C/Finished/Strings/Formatting/obj/Debug/net5.0/ref/Formatting.dll
+/home/runner/Learning-C/Finished/Strings/Formatting/obj/Debug/net5.0/Formatting.pdb
+/home/runner/Learning-C/Finished/Strings/Formatting/obj/Debug/net5.0/Formatting.genruntimeconfig.cache

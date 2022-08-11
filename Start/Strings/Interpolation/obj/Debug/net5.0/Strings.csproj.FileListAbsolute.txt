@@ -1,0 +1,16 @@
+/home/runner/Learning-C/Start/Strings/Interpolation/bin/Debug/net5.0/Strings
+/home/runner/Learning-C/Start/Strings/Interpolation/bin/Debug/net5.0/Strings.deps.json
+/home/runner/Learning-C/Start/Strings/Interpolation/bin/Debug/net5.0/Strings.runtimeconfig.json
+/home/runner/Learning-C/Start/Strings/Interpolation/bin/Debug/net5.0/Strings.runtimeconfig.dev.json
+/home/runner/Learning-C/Start/Strings/Interpolation/bin/Debug/net5.0/Strings.dll
+/home/runner/Learning-C/Start/Strings/Interpolation/bin/Debug/net5.0/ref/Strings.dll
+/home/runner/Learning-C/Start/Strings/Interpolation/bin/Debug/net5.0/Strings.pdb
+/home/runner/Learning-C/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.csproj.AssemblyReference.cache
+/home/runner/Learning-C/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Learning-C/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.AssemblyInfoInputs.cache
+/home/runner/Learning-C/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.AssemblyInfo.cs
+/home/runner/Learning-C/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.csproj.CoreCompileInputs.cache
+/home/runner/Learning-C/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.dll
+/home/runner/Learning-C/Start/Strings/Interpolation/obj/Debug/net5.0/ref/Strings.dll
+/home/runner/Learning-C/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.pdb
+/home/runner/Learning-C/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.genruntimeconfig.cache

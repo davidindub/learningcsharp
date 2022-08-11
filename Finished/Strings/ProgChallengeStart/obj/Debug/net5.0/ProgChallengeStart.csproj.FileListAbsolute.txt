@@ -1,0 +1,16 @@
+/home/runner/Learning-C/Finished/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart
+/home/runner/Learning-C/Finished/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart.deps.json
+/home/runner/Learning-C/Finished/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart.runtimeconfig.json
+/home/runner/Learning-C/Finished/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart.runtimeconfig.dev.json
+/home/runner/Learning-C/Finished/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart.dll
+/home/runner/Learning-C/Finished/Strings/ProgChallengeStart/bin/Debug/net5.0/ref/ProgChallengeStart.dll
+/home/runner/Learning-C/Finished/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart.pdb
+/home/runner/Learning-C/Finished/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.csproj.AssemblyReference.cache
+/home/runner/Learning-C/Finished/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Learning-C/Finished/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.AssemblyInfoInputs.cache
+/home/runner/Learning-C/Finished/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.AssemblyInfo.cs
+/home/runner/Learning-C/Finished/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.csproj.CoreCompileInputs.cache
+/home/runner/Learning-C/Finished/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.dll
+/home/runner/Learning-C/Finished/Strings/ProgChallengeStart/obj/Debug/net5.0/ref/ProgChallengeStart.dll
+/home/runner/Learning-C/Finished/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.pdb
+/home/runner/Learning-C/Finished/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.genruntimeconfig.cache
