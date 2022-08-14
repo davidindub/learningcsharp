@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fwqp6FVjINmYA6WJzvtOX9cpsO/QRXYpTK/FkdA80Hb6zr21q8mCFQSwyhL9vEldgiHi938uMqLU7jeoQLKYug==",
+  "dgSpecHash": "g1dzRcAql3wre0W38wYakT+kdmRgh75YZDKlLscnLLT8+bKRqQ93Tbxxs1mTZJwqldlfLHxD+RMxOA7hWnhHvg==",
   "success": true,
-  "projectFilePath": "/home/runner/Learning-C/NET5_Console.csproj",
+  "projectFilePath": "C:\\Users\\david\\Desktop\\code\\learningcsharp\\NET5_Console.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

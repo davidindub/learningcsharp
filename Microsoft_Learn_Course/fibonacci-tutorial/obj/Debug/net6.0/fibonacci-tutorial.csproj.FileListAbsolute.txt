@@ -1,0 +1,15 @@
+C:\Users\david\Desktop\code\learningcsharp\Microsoft_Learn_Course\fibonacci-tutorial\bin\Debug\net6.0\fibonacci-tutorial.exe
+C:\Users\david\Desktop\code\learningcsharp\Microsoft_Learn_Course\fibonacci-tutorial\bin\Debug\net6.0\fibonacci-tutorial.deps.json
+C:\Users\david\Desktop\code\learningcsharp\Microsoft_Learn_Course\fibonacci-tutorial\bin\Debug\net6.0\fibonacci-tutorial.runtimeconfig.json
+C:\Users\david\Desktop\code\learningcsharp\Microsoft_Learn_Course\fibonacci-tutorial\bin\Debug\net6.0\fibonacci-tutorial.dll
+C:\Users\david\Desktop\code\learningcsharp\Microsoft_Learn_Course\fibonacci-tutorial\bin\Debug\net6.0\fibonacci-tutorial.pdb
+C:\Users\david\Desktop\code\learningcsharp\Microsoft_Learn_Course\fibonacci-tutorial\obj\Debug\net6.0\fibonacci-tutorial.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\code\learningcsharp\Microsoft_Learn_Course\fibonacci-tutorial\obj\Debug\net6.0\fibonacci-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\code\learningcsharp\Microsoft_Learn_Course\fibonacci-tutorial\obj\Debug\net6.0\fibonacci-tutorial.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\code\learningcsharp\Microsoft_Learn_Course\fibonacci-tutorial\obj\Debug\net6.0\fibonacci-tutorial.AssemblyInfo.cs
+C:\Users\david\Desktop\code\learningcsharp\Microsoft_Learn_Course\fibonacci-tutorial\obj\Debug\net6.0\fibonacci-tutorial.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\code\learningcsharp\Microsoft_Learn_Course\fibonacci-tutorial\obj\Debug\net6.0\fibonacci-tutorial.dll
+C:\Users\david\Desktop\code\learningcsharp\Microsoft_Learn_Course\fibonacci-tutorial\obj\Debug\net6.0\refint\fibonacci-tutorial.dll
+C:\Users\david\Desktop\code\learningcsharp\Microsoft_Learn_Course\fibonacci-tutorial\obj\Debug\net6.0\fibonacci-tutorial.pdb
+C:\Users\david\Desktop\code\learningcsharp\Microsoft_Learn_Course\fibonacci-tutorial\obj\Debug\net6.0\fibonacci-tutorial.genruntimeconfig.cache
+C:\Users\david\Desktop\code\learningcsharp\Microsoft_Learn_Course\fibonacci-tutorial\obj\Debug\net6.0\ref\fibonacci-tutorial.dll
