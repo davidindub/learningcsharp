@@ -1,0 +1,16 @@
+C:\Users\david\Desktop\code\learningcsharp\Start\Classes\Inheritance\bin\Debug\net5.0\Inheritance.exe
+C:\Users\david\Desktop\code\learningcsharp\Start\Classes\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+C:\Users\david\Desktop\code\learningcsharp\Start\Classes\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+C:\Users\david\Desktop\code\learningcsharp\Start\Classes\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+C:\Users\david\Desktop\code\learningcsharp\Start\Classes\Inheritance\bin\Debug\net5.0\Inheritance.dll
+C:\Users\david\Desktop\code\learningcsharp\Start\Classes\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+C:\Users\david\Desktop\code\learningcsharp\Start\Classes\Inheritance\obj\Debug\net5.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\code\learningcsharp\Start\Classes\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\code\learningcsharp\Start\Classes\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\code\learningcsharp\Start\Classes\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+C:\Users\david\Desktop\code\learningcsharp\Start\Classes\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\code\learningcsharp\Start\Classes\Inheritance\obj\Debug\net5.0\Inheritance.dll
+C:\Users\david\Desktop\code\learningcsharp\Start\Classes\Inheritance\obj\Debug\net5.0\refint\Inheritance.dll
+C:\Users\david\Desktop\code\learningcsharp\Start\Classes\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+C:\Users\david\Desktop\code\learningcsharp\Start\Classes\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache
+C:\Users\david\Desktop\code\learningcsharp\Start\Classes\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll

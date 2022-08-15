@@ -16,6 +16,11 @@ namespace Modifiers
 
             // TODO: set data using functions instead of accessing fields directly
 
+            b1.SetName("Grapes of Wrath");
+            b1.SetAuthor("John Steinbeck");
+            b1.SetPageCount(464);
+            Console.WriteLine(b1.GetDescription());
+
         }
     }
 }
