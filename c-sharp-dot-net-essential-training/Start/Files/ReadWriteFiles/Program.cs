@@ -6,7 +6,8 @@ const string filename = "TestFile.txt";
 
 // TODO 1: WriteAllText overwrites a file with the given content
 if (!File.Exists(filename)) {
-
+    File.WriteAllText(filename, "This is a text file.");
+        
 }
 
 // TODO 3: AppendAllText adds text to an existing file
@@ -17,3 +18,7 @@ if (!File.Exists(filename)) {
 
 // TODO 2: ReadAllText reads all the content from a file
 
+string content;
+
+content = File.ReadAllText(filename);
+Console.WriteLine(content);

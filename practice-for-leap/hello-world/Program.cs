@@ -16,6 +16,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             Console.WriteLine($"{LearningToday} {num1} {char4} {str1}");
 
+            int intMax =
+
 
         }
     }
